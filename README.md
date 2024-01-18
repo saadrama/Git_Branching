@@ -48,3 +48,9 @@ Learning about Git Branching
 `git branch --merged`
  List unmerged commits
 `git branch --no-mergedd`
+
+
+### Bonus Command
+```code
+     <h1> git log</h1>
+```
